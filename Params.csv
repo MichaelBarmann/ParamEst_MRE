@@ -1,0 +1,4 @@
+Parameter,Fixed,LB,InitialGuess,UB,Interpretation
+\beta,No,0.02,0.05,0.2,Transmission rate [per day]
+\sigma,No,0.1429,0.1818,0.3333,1/(Latent + Pre-clinical period) [days]
+M,No,0.0714,0.1,0.3333,Infectivity period [days]
