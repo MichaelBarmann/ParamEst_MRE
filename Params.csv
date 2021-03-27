@@ -1,4 +1,0 @@
-Parameter,Fixed,LB,Pt Est,UB,Interpretation
-\beta,No,0.0200,0.0500,0.2000,Transmission rate [per day]
-\sigma,No,0.1429,0.1818,0.3333,1/(Latent + Pre-clinical period) [days]
-M,No,0.0714,0.1000,0.3333,Infectivity period [days]
