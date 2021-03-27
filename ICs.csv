@@ -1,6 +1,0 @@
-IC,Fixed,LB,Pt Est,UB,Interpretation
-S(0),Yes,,60000.00,,Initial Susceptibles (total on campus student population)
-E(0)/I(0),No,0,4.59E+00,10,"Initial Population Fraction (E, I)"
-I(0),No,79,2.20E+02,396,Initial Infected (on Aug 24)
-R(0),Yes,,0,,Initial Recovered (on Aug 24) (This part doesn't really matter)
-I_cum(0),Yes,,454,,"Initial Cumulative Infected (sum of daily new cases from July 6 to Aug 24, inclusive)"
